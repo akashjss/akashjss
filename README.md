@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashjss
-- 👀 I’m interested in VOIP
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source python projects
+- 👀 I’m interested in VOIP Open source softwares
+- 🌱 I’m a Python enthusiast.
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me listen2akash@gmail.com
 
 <!---
