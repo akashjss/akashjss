@@ -2,7 +2,7 @@
 - 👀 I’m interested in VOIP technologies and Open source softwares
 - 🌱 I’m a Python enthusiast.I like to automate tasks.
 - 💞️ I’m a fan of Linux and command line tools.
-- 📫 How to reach me listen2akash@gmail.com
+- 📫 How to reach me akash@voipnuggets.com
 
 <!---
 akashjss/akashjss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
