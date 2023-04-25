@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashjss.
-- 👀 I’m interested in VOIP technologies, Cloud technologys and Open source softwares.
-- 🌱 I’m a Python enthusiast.I like to automate tasks.
+- 👀 I write about VOIP, Cloud, Artificial Intelligence and Open source softwares.
+- 🌱 I code using Python, Lua and bash.I like to automate tasks.
 - 💞️ I like working on Linux and command line tools.
 - ✨ I like to keep learning as I am a curious person.
 - 📫 How to reach me akash@voipnuggets.com
