@@ -2,7 +2,7 @@
 - 👀 I write about VOIP, Cloud, Artificial Intelligence and Open source softwares.
 - 🌱 I code using Python, Lua and bash.I like to automate tasks.
 - 💞️ I like working on Linux and command line tools.
-- ✨ I like to keep learning as I am a curious person.
+- ✨ I like to keep learning.
 - 📫 How to reach me akash@voipnuggets.com
 - 📫 My blog website is www.VoIPNuggets.com
 <!---
