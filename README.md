@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akashjss.
-- 👀 I write about VOIP, Cloud, Artificial Intelligence and Open source softwares.
+- 👀 I write about VOIP, Cloud, Artificial Intelligence, Voice AI and Open source softwares.
 - 🌱 I code using Python, Lua and bash.I like to automate tasks.
 - 💞️ I like working on Linux and command line tools.
 - ✨ I like to keep learning.
